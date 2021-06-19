@@ -34,5 +34,6 @@ Tableau Public URL: https://public.tableau.com/app/profile/chekwei/viz/SFOFlight
 5. Longest route from SFO is to BLR (Bangalore International Airport), around 14,000 KM. Next is SIN (Singapore International Airport) at around 13,500 KM.
 
 # Credits
-Data: https://drive.google.com/drive/folders/1eEL3dpCk_mfSsvEhME04-qJkWjrpi8Ib
+Dataset: https://drive.google.com/file/d/1HZSYZWoBrV926mnUTmvpjGmxRaKN4cQF/view?usp=sharing
+
 Tutorial: https://www.youtube.com/watch?v=C116gs2Y1nU
